@@ -7,7 +7,7 @@ function log {
 }
 
 export DOCKER_USER_NAME=kennedyuche
-export DOCKER_PASSWORD=MSP4UcheKC@1470
+export DOCKER_PASSWORD=''
 export IMAGE_NAME=app-frontend
 export IMAGE_TAG=v1
 
